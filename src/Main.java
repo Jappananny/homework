@@ -8,4 +8,5 @@ public class Main {
         System.out.println("Разница весов двух бойцов: " + (boxer2Weight - boxer1Weight));
 
 
+
 }
