@@ -12,5 +12,13 @@ public class Main {
         System.out.println(cat);
         paper = paper + 4;
         System.out.println(paper);
+        var dog1 = 8.0;
+        dog1 =   dog1 - 3.5;
+        System.out.println(dog1);
+        cat =   cat - 1.6;
+        System.out.println(cat);
+        paper = paper - 7639;
+        System.out.println(paper);
         }
-    }
+        }
+
